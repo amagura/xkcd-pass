@@ -25,7 +25,7 @@ fn getwords(count: usize, file: &str) -> std::io::Result<()>
 
         for (index, sentence) in lines.iter().enumerate() {
             if index == (rndln as usize) {
-                word = &mut String sentence.unwrap();
+                word = 
             }
         }
 
