@@ -79,7 +79,7 @@ fn main()
     // let mut rng = rand::thread_rng();
     // let rndln:u32 = rng.gen_range(1,
     // println!("{}", rndln);
-    getwords(4, "/usr/share/dict/words");
+    getwords(6, "/usr/share/dict/words");
 
 }
 
