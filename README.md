@@ -8,10 +8,12 @@ I've decided to uptake work on this once more.  The world needs _more_ secure pa
 
 Some example passwords from https://www.xkpasswd.net/:
 
+```
 MercuryJapanVenusGalaxyDriveMetal
 FastHelloPlaneDailyPresentVisit
 FingerDrinkWellSuddenRhythmSilent
 WindowPositionTeachRoseCoursePushed
+```
 
 Notice anything funny?  That's right!  All of them have words which are related to each other in English, which is a big no-no for XKCD passwords and is something _actually_ mentioned in the relevant comic.  
 
