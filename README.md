@@ -1,6 +1,9 @@
 # xkcd-pass
 A password generator based on the XKCD comic
 
+# Building
+
+Simply run `cargo build --release`
 
 # Updates
 I recently tried using https://www.xkpasswd.net/ since this project is pretty bare bones and more a technical demo, but given how horrifically insecure the passwords that website generates
