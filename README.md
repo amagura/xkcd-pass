@@ -18,6 +18,6 @@ FingerDrinkWellSuddenRhythmSilent
 WindowPositionTeachRoseCoursePushed
 ```
 
-Notice anything funny?  That's right!  All of them have words which are related to each other in English, which is a big no-no for XKCD passwords and is something _actually_ mentioned in the relevant comic.  
+Notice anything funny?  That's right!  All of them have words which are related to each other in English, which is a big no-no for passphrases.  
 
 I've created a ticket for that project and hopefully they'll introduce a patch to fix this, but in the meantime...
